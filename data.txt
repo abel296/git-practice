@@ -1,0 +1,3 @@
+Name: Abel
+Age: 36
+Favourite color: Blue
